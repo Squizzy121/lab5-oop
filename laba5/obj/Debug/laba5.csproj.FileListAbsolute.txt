@@ -1,0 +1,9 @@
+D:\лабы ооп\2 семестр\laba--5--oop\laba5\laba5\obj\Debug\laba5.csprojAssemblyReference.cache
+D:\лабы ооп\2 семестр\laba--5--oop\laba5\laba5\obj\Debug\laba5.Properties.Resources.resources
+D:\лабы ооп\2 семестр\laba--5--oop\laba5\laba5\obj\Debug\laba5.csproj.GenerateResource.cache
+D:\лабы ооп\2 семестр\laba--5--oop\laba5\laba5\bin\Debug\laba5.exe.config
+D:\лабы ооп\2 семестр\laba--5--oop\laba5\laba5\bin\Debug\laba5.exe
+D:\лабы ооп\2 семестр\laba--5--oop\laba5\laba5\bin\Debug\laba5.pdb
+D:\лабы ооп\2 семестр\laba--5--oop\laba5\laba5\obj\Debug\laba5.exe
+D:\лабы ооп\2 семестр\laba--5--oop\laba5\laba5\obj\Debug\laba5.pdb
+D:\лабы ооп\2 семестр\laba--5--oop\laba5\laba5\obj\Debug\OOP_Lab5.Form1.resources
